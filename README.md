@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h3 align="center">A passionate full stack developer and Data Science Enthusiast from India.</h3>
 
-<p align="left"> <a href="https://twitter.com/theayushgupta08" target="blank"><img src="https://img.shields.io/twitter/follow/theayushgupta08?logo=twitter&style=for-the-badge" alt="theayushgupta08" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/theayushgupta08" target="blank"><img src="https://img.shields.io/twitter/follow/theayushgupta08?logo=twitter&style=for-the-badge" alt="theayushgupta08" /></a> </p>
 
 - 🔭 I’m currently working on **Where is my BUS?**
 
