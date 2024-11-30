@@ -42,7 +42,7 @@
 <td align="center" width="90">   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>   </td>
 <td align="center" width="90"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  </td>
 <td align="center" width="90"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  </td>
-</tr>
+</tr>   
 <tr> 
 <td align="center" width="90">  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
  </td>
@@ -106,8 +106,6 @@
   
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theayushgupta08&show_icons=true&locale=en&layout=compact" alt="theayushgupta08" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theayushgupta08&show_icons=true&locale=en" alt="theayushgupta08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theayushgupta08&" alt="theayushgupta08" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theayushgupta08&show_icons=true&locale=en" alt="theayushgupta08" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theayushgupta08&" alt="theayushgupta08" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theayushgupta08&show_icons=true&locale=en&layout=compact" alt="theayushgupta08" /></p>
