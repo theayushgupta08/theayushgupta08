@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=anshc022&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <h1 align="center">
-Hey 👋 I'm Ayush Gupta
+Hey 👋 I'm Ayush Gupta <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
   </a>
