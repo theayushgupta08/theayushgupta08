@@ -5,7 +5,7 @@ Hey 👋 I'm Ayush Gupta
 </h1>
 
 ## 👨‍💻 About Me
-I'm a passionate Full Stack Developer and App Developer with a Computer Science Engineering background. I thrive on building innovative solutions in web development, mobile apps, and Data Science.
+I'm a passionate Full Stack Developer and Cybersecurity Enthusiasts with a Computer Science Engineering background. I thrive on building innovative solutions in web development, mobile apps, and Data Science.
 
 ## 🛠️ Tech Arsenal
 
