@@ -4,8 +4,17 @@
 Hey 👋 I'm Ayush Gupta
 </h1>
 
-## 👨‍💻 About Me
-I'm a passionate Full Stack Developer and Cybersecurity Enthusiasts with a Computer Science Engineering background. I thrive on building innovative solutions in web development, mobile apps, and Data Science.
+---
+ 
+## 🚀 About Me
+ 
+- 🎓 Computer Engineering graduate (CGPA 8.4/10) from Pune, India
+- 💼 Software Engineer at **Raja Software Labs**, Pune — working on enterprise Spring applications, microservice debugging, authentication, and distributed tracing in production systems
+- 🏢 Previously at **Sqano Systems Pvt Ltd**, building Java/Spring-based backend systems
+- 🌱 Currently exploring AI-augmented tooling, RAG/LLM pipelines, and full-stack product development
+- 💹 Strong interest in personal finance, trading, and building AI-powered tools for personal use
+- 📫 Open to SDE-1 / early-career Software Engineer roles at product companies
+---
 
 ## 🛠️ Tech Arsenal
 
