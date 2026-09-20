@@ -81,21 +81,21 @@ I'm a passionate Full Stack Developer and Cybersecurity Enthusiasts with a Compu
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshc022&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theayushgupta08&theme=dark" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theayushgupta08&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayushgupta08&layout=compact&theme=dark&langs_count=8"/>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=theayushgupta08&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy"/>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theayushgupta08&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
